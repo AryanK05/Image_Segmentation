@@ -24,6 +24,9 @@ Each training image has an associated labeled mask image, where each pixel color
 ## Prerequisites
 
 - Python 3.x
-- Libraries: `numpy`, `tensorflow` or `torch`, `opencv-python`, `matplotlib`
+- Libraries: `numpy`, `tensorflow` or `torch`, `opencv-python`, `matplotlib` , `sklearn`
 - GPU recommended for faster training.
+
+
+
 
